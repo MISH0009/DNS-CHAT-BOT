@@ -1,6 +1,8 @@
+─「 ─「 ─「 👑•⃟⃟⃝⃪⃟⃝•๋๋๋๋๋๋๋๋๋๋๋๋๋๋♥️⃪❘꯭𝄄꯭⍣⧉⃞⟶͇̽𓆩̯♥️🇩𝐈𝐋💌̶꯭꯭❥͜͡𝄟⑅⃝♥ 」─ 」─ 」─
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-    <img src="https://files.catbox.moe/gjs8ci.jpg">
+    <img src="https://graph.org/file/4d75b119607861f5381e3-df7aa90378a66489b1.jpg">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -16,7 +18,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MISH0009/DNS-CHAT-BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="320" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/VEM15/VEM-CHAT-BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="320" height="138.45"/></a></p>
 
 
 
@@ -30,8 +32,33 @@
 
 </h3>
 
+─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+ 
+
+- Clone the repository by :
+`git clone https://github.com/VEM15/VEM-CHAT-BOT && cd VEM-CHAT-BOT`
+
+- Install requirements by :
+`pip3 install -U -r requirements.txt`
+
+- Fill your variables in the env by :
+`vi sample.env`<br>
+Press `I` on the keyboard for editing env<br>
+Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+
+- Rename the env file by :
+`mv sample.env .env`
+
+- Install tmux to keep running your bot when you close the terminal by :
+`sudo apt install tmux && tmux`
+
+- Finally run the bot by :
+`bash start`
+
+- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+━━━━━━━━━━━━━━━━━━━━
 
 ### Contact:
-<a href="https://t.me/DNS_NETWORK">
+<a href="https://t.me/ABOUT_DEVIL_VENOM">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
